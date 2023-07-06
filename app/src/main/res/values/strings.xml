@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Influx</string>
+    <string name="Faq_description">We built this application for your busy life solution. You are capable of
+manage your monthly income in a good manner. Save more and live happily.</string>
+    <string name="notification">You have spent more than last week.</string>
+    <string name="achievement">You are in a 150,000 saving challenge.</string>
+    <string name="loginbtn">Login</string>
+    <string name="register_btn">Register</string>
+    <string name="backBtn">Back</string>
+    <string name="login_text">Login</string>
+    <string name="register_text">If you are not registered, register here.</string>
+    <string name="setting">Settings</string>
+    <string name="settings_item1">Account</string>
+    <string name="settings_item2">Delete Account</string>
+    <string name="settings_item3">FAQ</string>
+    <string name="achievements_text">Achievements</string>
+    <string name="notification_text">Notification</string>
+    <string name="notification_">You have spent more than last week.</string>
+    <string name="username_text">Enter username</string>
+    <string name="password_text">Enter password</string>
+    <string name="password2_text">Re-enter password</string>
+    <string name="welcome_text">Welcome to influx</string>
+    <string name="name_of_user">Hello Alexa!</string>
+</resources>

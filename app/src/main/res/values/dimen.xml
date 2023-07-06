@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editTextHeight">48dp</dimen>
+    <dimen name="editTextWidth">300dp</dimen>
+    <dimen name="buttonWidht">300dp</dimen>
+    <dimen name="buttonHeight">48dp</dimen>
+    <dimen name="screen_horizontalMargin">16dp</dimen>
+    <dimen name="screen_verticalMargin">16dp</dimen>
+    <dimen name="cardWidth">300dp</dimen>
+    <dimen name="cardHeight">200dp</dimen>
+    <dimen name="smallButtonHeight">48dp</dimen>
+    <dimen name="smallButtonWidth">100dp</dimen>
+</resources>
